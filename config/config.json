@@ -1,0 +1,9 @@
+{
+  "appDatabaseName": "test",
+  "appDatabaseCollection": "streamtest",
+  "auditDbUrl": "mongodb://@localhost:27017",
+  "auditDatabaseName": "test",
+  "auditDatabaseCollection": "audit",
+  "port": "3000",
+  "version": "1.0"
+}
